@@ -1,12 +1,12 @@
 # Maintainer: Mailson D. Lira Menezes <mailson@gmail.com>
 
 pkgname=qtquickstyles-git
-pkgver=20120525 # XXX
+pkgver=20120528
 pkgrel=1
-pkgdesc="Qt Quick 2 desktop components and styles"
+pkgdesc="Qt Quick 2 desktop components and styles (experimental)"
 arch=('i686' 'x86_64')
-url="https://qt.gitorious.org/qt/qtdeclarative" # TODO
-license=('LGPL') # TODO
+url="http://wiki.qtlabs.org.br/projects/qtquickstyles/Main"
+license=('LGPL')
 depends=('qt5-qtdeclarative-git')
 makedepends=('gcc' 'git')
 source=()
